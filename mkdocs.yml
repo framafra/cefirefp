@@ -1,0 +1,95 @@
+site_name: Tutorials CEFIRE FP
+site_author: Cefire FP
+#site_url: https://github.com/framafra/docker
+docs_dir: 'md'
+site_dir: 'docs'
+#repo_url: https://github.com/framafra/docker #para mostrar un link al repositorio
+#repo_name: framafra/docker
+
+edit_uri: '' #Suprimir el icono de edición (https://www.mkdocs.org/user-guide/configuration/#edit_uri)
+
+nav:
+  - Inici: index.md
+  - Paper de l'assessor/a: assessor.md
+  - Organització: organitzacio.md
+  - Gestió Administrativa: gestio_administrativa.md
+  - Gestió de les formacions: gestio_formacions.md
+  - Tutorials:
+      - Creació de sessió en Teams: tutorials/tutorial_teams.md
+
+
+theme:
+  name: material
+  include_search_page: false
+  font:
+    code: Roboto
+    text: Baloo 2
+  palette:
+    # Boto que canvia a mode oscur
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Canvia a mode fosc
+    # Botó que canvia a mode clar
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Canvia a mode clar
+  favicon: images/docker.png
+  features:
+    #- header.autohide
+    - toc.follow  # el toc segueix en la pantalla
+    - toc.integrate # el toc dins de la pàgina, en el menu lateral
+    - search.suggest
+    #- navigation.tabs
+    #- navigation.tabs.sticky
+    - content.code.copy
+    - content.code.select
+    - content.code.annotate
+    - navigation.footer       # footer de la pagina, amb navegació
+    - navigation.top          # boto flotant de tornar a dalt 
+    - content.footnote.tooltips
+  logo: images/icono.jpg
+  icon:
+    admonition:
+      note: octicons/alert-24
+      example: octicons/book-16
+
+extra_css:
+  - css/extra.css
+
+extra:
+  generator: false #Muestra en el pie de página que se ha realiza
+
+
+markdown_extensions:
+    - abbr
+    - admonition
+    - attr_list
+    - def_list
+    - footnotes
+    - md_in_html
+    - toc:
+        permalink: true
+        toc_depth: 3
+    - pymdownx.arithmatex:
+        generic: true
+    - pymdownx.betterem:
+        smart_enable: all
+    - pymdownx.caret
+    - pymdownx.details
+    - pymdownx.emoji:
+        emoji_index: !!python/name:materialx.emoji.twemoji
+        emoji_generator: !!python/name:materialx.emoji.to_svg
+    - pymdownx.highlight
+    - pymdownx.inlinehilite
+    - pymdownx.keys
+    - pymdownx.mark
+    - pymdownx.smartsymbols
+    - pymdownx.superfences
+    - pymdownx.tabbed:
+        alternate_style: true
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    - pymdownx.tilde       
+

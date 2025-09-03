@@ -1,0 +1,9 @@
+.md-content p {
+  text-align: justify;
+}
+
+
+/* Amaga els nivells 3 i 4 del TOC del menú lateral */
+.md-nav__item.md-nav__item--nested .md-nav__list .md-nav__item--nested {
+    display: none;
+}
