@@ -1,6 +1,4 @@
 
-**3. Organització**
-
 ### 🏛 Organigrama
 
 L’organització del **CEFIRE de FP** està estructurada per assegurar una coordinació eficaç entre els assessors, els centres de formació i la Direcció General de Formació Professional.

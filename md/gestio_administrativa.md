@@ -6,7 +6,7 @@ La gestió administrativa és una part fonamental del treball de l’assessor/a,
 
 ## 📝 Comissions de servei
 
-### Què són i per a què serveixen
+#### Què són i per a què serveixen
 
 Les **comissions de servei** són autoritzacions temporals que permeten als assessors/des realitzar activitats **fora del seu lloc habitual de treball**, com ara:
 
@@ -20,7 +20,7 @@ L’objectiu és garantir que aquests desplaçaments estiguen **formalment autor
 
 ## 💰 Dieta i despeses de desplaçament
 
-### Normativa
+#### Normativa
 
 Les dietes i despeses de desplaçament es gestionen segons la **normativa vigent de la Generalitat Valenciana**, que estableix:
 
@@ -30,7 +30,7 @@ Les dietes i despeses de desplaçament es gestionen segons la **normativa vigent
 
 ---
 
-### Procediment pas a pas
+## ⚙️ Procediment pas a pas per a demanar una comissió de servei
 
 1. **Accedir a l’aplicació [GVADietas](https://gvlogin.gva.es/gvlogin/login.xhtml?app=DIETASGVA&url=https%3A%2F%2Fdietasgva.gva.es%2Fdietasgva%2F "GVADietas")**
     - Has d'estar dins de la xarxa de la GVA.
@@ -71,8 +71,12 @@ Les dietes i despeses de desplaçament es gestionen segons la **normativa vigent
 
 7. S'obri una nova finestra on seleccionarem el nostre nom y polsarem finalitza
 
-8. **Una vegada ja ens hagam desplaçat** haurem de demanar la dieta --> **PER A COMPLETAR**
+8. **Una vegada ja ens hagam desplaçat** haurem de demanar la dieta --> Seguent apartat
 
+
+## ⚙️ Procediment pas a pas per a demanar una dieta
+
+**PER A COMPLETAR**
 
 ---
 
