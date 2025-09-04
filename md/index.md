@@ -28,7 +28,7 @@ Amb aquesta web volem aconseguir que el treball de cada assessor/a siga més **�
 ### 🎯 Alguns enllaços d'interés
 
 * [Pàgina CEFIRE](https://portal.edu.gva.es/cefire/es/inici-2-es/)
-* [Enllaç Telegram a la comunitat de CEFIRE](t.me/GVA_Cefire)
+* [Enllaç Telegram a la comunitat de CEFIRE](https://t.me/GVA_Cefire)
 * [Enllaç a a pàgina FP de GVA](https://ceice.gva.es/va/web/formacion-educacion/formacion)
 
 ---

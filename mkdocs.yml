@@ -13,9 +13,21 @@ nav:
   - Paper de l'assessor/a: assessor.md
   - Organització: organitzacio.md
   - Gestió Administrativa: gestio_administrativa.md
-  - Gestió de les formacions: gestio_formacions.md
+  - Gestió Formacions:
+      - Índex: gestio_formacions.md
+      - Disseny de la formació: gestioformacions/disseny.md
+      - Generar la formació: gestioformacions/generar.md
+      - Preparar la formació: gestioformacions/preparar.md
+      - Seguiment de la formació: gestioformacions/seguiment.md
+      - Certificació i tancament de la formació: gestioformacions/certificacio_tancament.md
+  - Gestió Econòmica:
+      - Comprova estat de la gestió econòmica de la formació: gestioeconomica/ge_comprova.md  
+      - Protocol de minutes: gestioeconomica/ge_protocolo_general_minutas.md
+      - Protocol de factures: gestioeconomica/ge_protocolo_general_facturas.md
+      - Finalització de les formacions: gestioeconomica/ge_finalizacion_curso.md
   - Tutorials:
       - Creació de sessió en Teams: tutorials/tutorial_teams.md
+      - Gesform: tutorials/tutorial_gesform.md
 
 
 theme:

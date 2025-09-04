@@ -62,3 +62,58 @@ Els assessors duen a terme activitats molt variades que combinen gestió, suport
 ---
 
 
+
+### 📌 Recomanació: Presentació a la família professional
+
+Una de les primeres accions que hauries de realitzar com a **assessor/a de família professional** és presentar-te oficialment als caps i caps de departament de la família que t’ha sigut assignada.
+
+Aquesta comunicació inicial és clau per:
+
+* Donar-te a conéixer com a referent de formació del CEFIRE.
+* Explicar breument les teues funcions principals.
+* Establir un primer canal de comunicació amb els centres.
+* Detectar necessitats i rebre informació actualitzada de cada departament.
+
+Et recomanem fer-ho mitjançant un **correu electrònic formal**, que servisca com a carta de presentació.
+
+---
+
+#### Exemple de correu de presentació
+
+> **Assumpte del correu:** Presentació com a assessor/a de la família professional de XXX
+>
+> Estimats/des caps de departament,
+>
+> Em presente: sóc **[Nom i cognoms]** i, a partir d’aquest curs (**1 de setembre de 2025**), assumiré la tasca d’assessor/a de la família professional de **[Nom de la família]** en el CEFIRE específic de Formació Professional.
+>
+> Entre altres, les meues funcions com a assessor/a de la família de **[Nom de la família]** són:  
+>   - Elaborar i coordinar el pla d’actuació formatiu per a la família.  
+>   - Assessorar i acompanyar els/les coordinadors/es de formació dels centres educatius que imparteixen estes ensenyances.  
+>   - Col·laborar amb la xarxa CEFIRE per a garantir una oferta formativa actualitzada i de qualitat.
+>
+> En este moment estem treballant en la nova oferta formativa, que es posarà en marxa a partir de gener de 2026.
+>
+> En cas que ja no sigueu els/les caps de departament de **[Nom de la família]**, vos agrairia que em facilitàreu el contacte actualitzat del/de la nou/nova responsable, per a poder dirigir-li esta informació.
+>
+> Reste a la vostra disposició per a qualsevol dubte, suggeriment o necessitat que considereu important traslladar. Podeu contactar amb mi a través d’este correu electrònic o a través del telèfon **[Telèfon de contacte]**.
+>
+> Gràcies per la vostra atenció i per la tasca que realitzeu en els vostres centres.
+>
+> Atentament,
+>
+> **[Nom i cognoms]**  
+> Assessor/a de la família professional de **[Nom de la família]**  
+> CEFIRE específic de Formació Professional
+
+
+
+!!! note "Recomanacions pràctiques"
+    - Enviar el correu la **primera setmana de setembre**.
+    - Personalitzar sempre el text amb el teu **nom** i el de la **família professional**.
+    - Mantindre un to **formal i proper**.
+    - Incloure el teu **telèfon i correu de contacte**.
+    - Demanar el contacte actualitzat si ha canviat la persona responsable del departament.
+
+
+
+

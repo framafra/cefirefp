@@ -42,9 +42,6 @@ Per a facilitar la comunicació amb els centres de FP, amb els directors o amb e
 [:material-link-variant: Directori de Contactes](https://gvaedu.sharepoint.com/:f:/r/sites/Section_46402871-C/Documentos%20compartidos/CEFIRE%20FP%2025-26/DIRECTORIO%20DE%20CONTACTOS?csf=1&web=1&e=ZOeJyg){: .md-button target="_blank"}
 
 
-
-Perfecte, Paco! Puc redactar tota la **secció 3. Identitat corporativa** i integrar-la amb el contingut anterior de manera que quedi com una única pàgina contínua, llesta per posar a la web. Ací tens el text desenvolupat:
-
 ---
 
 ## 🎨 Imatge corporativa
